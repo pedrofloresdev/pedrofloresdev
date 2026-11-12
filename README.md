@@ -14,7 +14,6 @@ Chicago, IL · open to remote
 
 - [service-monitoring-api](https://github.com/pedrofloresdev/service-monitoring-api): Health-check scheduler with per-service configurable intervals. Built with FastAPI, PostgreSQL, APScheduler and Docker. First real Spec-Driven Development project.
 - [job-intelligence-api](https://github.com/pedrofloresdev/job-intelligence-api): Backend system that collects, processes and analyzes real remote job market data. Production-ready pipeline with FastAPI, PostgreSQL and Docker.
-- [backend-production-api](https://github.com/pedrofloresdev/backend-production-api): Production-ready REST API with user authentication and content management. FastAPI, PostgreSQL, Docker - real-world backend practices.
 
 ## Contact
 
