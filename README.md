@@ -2,7 +2,7 @@
 
 **Software Engineer · Backend · AI Integration**
 
-Software Engineer with 7+ years designing, building and maintaining backend systems, REST APIs, data pipelines and cloud-integrated services across remote, cross-functional teams. Proficient in Python (FastAPI, Flask), PHP, SQL, PostgreSQL, Docker and AWS, with experience across the full software development lifecycle: requirements gathering, architecture, implementation, testing, deployment and support. Systems analysis background translating business needs into technical solutions. Currently integrating LLMs (Claude API, multi-agent patterns) into production workflows.
+Software Engineer with 6+ years designing, building and maintaining backend systems, REST APIs, data pipelines and cloud-integrated services across remote, cross-functional teams. Proficient in Python (FastAPI, Flask), PHP, SQL, PostgreSQL, Docker and AWS, with experience across the full software development lifecycle: requirements gathering, architecture, implementation, testing, deployment and support. Systems analysis background translating business needs into technical solutions. Building LLM-powered tools with the Claude API and Claude Code using multi-agent patterns.
 
 Chicago, IL · open to remote
 
